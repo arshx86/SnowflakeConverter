@@ -17,7 +17,7 @@ DateTimeOffset.FromUnixTimeMilliseconds(unixMS);
 ### Tool
 > Paste **snowflake object** and get the **creation timestamp** of it.
 
-[![toolac4829726fec840a.md.gif](https://s8.gifyu.com/images/toolac4829726fec840a.md.gif)](https://gifyu.com/image/SHvIS)
+[![toolac4829726fec840a.gif](https://s8.gifyu.com/images/toolac4829726fec840a.gif)](https://gifyu.com/image/SHvIS)
 
 > Or, use simplier version with passing params
 
